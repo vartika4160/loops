@@ -1,0 +1,1 @@
+This repository contains examples and explanations of the switch statement and loops in C++. The switch statement is used for selective execution of code blocks based on the value of an expression, while loops are used for repetitive execution of code blocks. This README provides an overview of how to use the switch statement and different types of loops in C++.
